@@ -51,7 +51,7 @@ function Example() {
       </button> <br /> */}
 
 
-      <p>Where is the iss?</p>
+      <h1>Where is the iss?</h1>
       
       <button className="getiss" onClick={(e) => getIss(e)}>
         Click to find out
