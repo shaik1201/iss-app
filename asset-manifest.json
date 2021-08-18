@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shaik1201/iss-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/shaik1201/iss-app/static/js/main.4e98d891.chunk.js",
+    "main.js.map": "/shaik1201/iss-app/static/js/main.4e98d891.chunk.js.map",
+    "runtime-main.js": "/shaik1201/iss-app/static/js/runtime-main.02606dac.js",
+    "runtime-main.js.map": "/shaik1201/iss-app/static/js/runtime-main.02606dac.js.map",
+    "static/js/2.6f1b245e.chunk.js": "/shaik1201/iss-app/static/js/2.6f1b245e.chunk.js",
+    "static/js/2.6f1b245e.chunk.js.map": "/shaik1201/iss-app/static/js/2.6f1b245e.chunk.js.map",
+    "static/js/3.21450402.chunk.js": "/shaik1201/iss-app/static/js/3.21450402.chunk.js",
+    "static/js/3.21450402.chunk.js.map": "/shaik1201/iss-app/static/js/3.21450402.chunk.js.map",
+    "index.html": "/shaik1201/iss-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/shaik1201/iss-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6f1b245e.chunk.js.LICENSE.txt": "/shaik1201/iss-app/static/js/2.6f1b245e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/shaik1201/iss-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02606dac.js",
+    "static/js/2.6f1b245e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.4e98d891.chunk.js"
+  ]
+}
