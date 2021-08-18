@@ -56,7 +56,7 @@ function Example() {
       <button className="getiss" onClick={(e) => getIss(e)}>
         Click to find out
       </button>
-      <p>londitude: {data.lon}</p>
+      <p>longitude: {data.lon}</p>
       <p>latitude: {data.lat}</p>
       
     </div>
