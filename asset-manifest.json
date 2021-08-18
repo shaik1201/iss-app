@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shaik1201/iss-app/static/css/main.a617e044.chunk.css",
-    "main.js": "/shaik1201/iss-app/static/js/main.4e98d891.chunk.js",
-    "main.js.map": "/shaik1201/iss-app/static/js/main.4e98d891.chunk.js.map",
+    "main.js": "/shaik1201/iss-app/static/js/main.9dbb9d7a.chunk.js",
+    "main.js.map": "/shaik1201/iss-app/static/js/main.9dbb9d7a.chunk.js.map",
     "runtime-main.js": "/shaik1201/iss-app/static/js/runtime-main.02606dac.js",
     "runtime-main.js.map": "/shaik1201/iss-app/static/js/runtime-main.02606dac.js.map",
     "static/js/2.6f1b245e.chunk.js": "/shaik1201/iss-app/static/js/2.6f1b245e.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.02606dac.js",
     "static/js/2.6f1b245e.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.4e98d891.chunk.js"
+    "static/js/main.9dbb9d7a.chunk.js"
   ]
 }
